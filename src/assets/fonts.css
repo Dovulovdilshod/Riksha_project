@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'interface';
+    src: url('fonts/TTInterfaces-Black.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'font';
+    src: url('fonts/fa-solid-900.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'insta';
+    src: url('fonts/fa-brands-400.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'regular';
+    src: url('fonts/fa-regular-400.ttf');
+    font-weight: 400;
+}
